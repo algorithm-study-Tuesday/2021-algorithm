@@ -7,7 +7,7 @@ for _ in range(m):
   command = sys.stdin.readline().split()
   
   if command[0] == "all":
-    bit (1 << 20) - 1
+    bit = (1 << 20) - 1
   elif command[0] == "empty":
     bit = 0
   else:
