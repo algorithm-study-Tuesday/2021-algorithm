@@ -37,7 +37,7 @@
 윤경 → 현진 → 소현 연습문제, 과제문제 선정
 오늘의 `연습문제`, `과제`, `배정`에 넣어놓기
 
-[백준 그룹_집가고싶다](https://www.acmicpc.net/group/11565)
+:heavy_check_mark: [백준 그룹_집가고싶다](https://www.acmicpc.net/group/11565) ❗️
 
 :heavy_check_mark: 자세한 규칙은 [여기](https://www.notion.so/expresshighway/1342252e153740f196aa342414872ac3)에서 확인 ❗️
 
